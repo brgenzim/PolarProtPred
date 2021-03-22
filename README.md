@@ -1,19 +1,19 @@
-PolarProtPred
+# PolarProtPred
 
 Prediction of Apical/Basolateral localization from amino acid sequence            
 Laszlo Dobson                 
 RCNS, Institute of Enzymology // EMBL     
 2021                      
 
-INSTALL
-    1. Install Keras and TensorFlow: https://phoenixnap.com/kb/how-to-install-keras-on-linux
-    2. Modify program directory/Blast path at the top of Main.py!
-    3. Download SwissProt fasta file to the PolarProtPred directory
-    4. Build blast database from SP fasta file
-    5. Download speindex.txt from UniProt
+## INSTALL
+1. Install Keras and TensorFlow: https://phoenixnap.com/kb/how-to-install-keras-on-linux
+2. Modify program directory/Blast path at the top of Main.py!
+3. Download SwissProt fasta file to the PolarProtPred directory
+4. Build blast database from SP fasta file
+5. Download speindex.txt from UniProt
 
 
-USAGE
+## USAGE
     python3 Main.py <FASTA> <TOPOLOGY.XML> <DISORDERED.TXT> <LOW_COMPLEXITY.JSON> <OUTPUT> <MODE>
 
     FASTA
@@ -42,4 +42,22 @@ USAGE
         binary - apical vs basolateral
         categorical - apical vs basolateral vs other
 
+## Citation
+
+If you find PolarProtPred useful, please cite:
+
+**PolarProtPred: Predicting apical and basolateral localization of transmembrane proteins using putative short linear motifs and deep learning**
+
+Laszlo Dobson, Andras Zeke, Levente Szekeres, Tamas Lango, Gabor Tusnady
+
+Manuscript in preparation.
+
+
+## PolarProtPred home page
+PolarProtPred is available online at [http://polarprotpred.ttk.hu](https://polarprotpred.ttk.hu).
+
+## Related pages
+- [PolarProtDb](http://polarprotdb.ttk.hu)
+- [CCTOP](http://cctop.enzim.ttk.mta.hu)
+- [PDBTM](http://pdbtm.enzim.hu)
 
