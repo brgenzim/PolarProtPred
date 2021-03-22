@@ -44,17 +44,17 @@ RCNS, Institute of Enzymology // EMBL
 
 ## Citation
 
-If you find PolarProtPred useful, please cite:
-
-**PolarProtPred: Predicting apical and basolateral localization of transmembrane proteins using putative short linear motifs and deep learning**
-
-Laszlo Dobson, Andras Zeke, Levente Szekeres, Tamas Lango, Gabor Tusnady
-
-Manuscript in preparation.
+>If you find PolarProtPred useful, please cite:
+>
+>**PolarProtPred: Predicting apical and basolateral localization of transmembrane proteins using putative short linear motifs and deep learning**
+>
+>Laszlo Dobson, Andras Zeke, Levente Szekeres, Tamas Lango, Gabor Tusnady
+>
+>Manuscript in preparation.
 
 
 ## PolarProtPred home page
-PolarProtPred is available online at [http://polarprotpred.ttk.hu](https://polarprotpred.ttk.hu).
+PolarProtPred is available online at [http://polarprotpred.ttk.hu](http://polarprotpred.ttk.hu).
 
 ## Related pages
 - [PolarProtDb](http://polarprotdb.ttk.hu)
