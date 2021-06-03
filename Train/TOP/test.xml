@@ -1,0 +1,214 @@
+<CCTOPItems>
+<CCTOPItem id="795115" transmembrane="yes" evidence="Experiment">
+	<Copyright>Copyrighted by the Institute of Enzymology!</Copyright>
+	<Name>test</Name>
+	<CrossRef>
+		<UniProt id="ACE2_HUMAN">
+			<AC>Q9BYF1</AC>
+			<AC>C7ECU1</AC>
+			<AC>Q6UWP0</AC>
+			<AC>Q86WT0</AC>
+			<AC>Q9NRA7</AC>
+			<AC>Q9UFZ6</AC>
+		</UniProt>
+		<PDB id="1r42">
+			<Chain id="A"/>
+		</PDB>
+		<PDB id="1r4l">
+			<Chain id="A"/>
+		</PDB>
+		<PDB id="1xjp">
+			<Chain id="B"/>
+		</PDB>
+		<PDB id="2ajf">
+			<Chain id="A"/>
+			<Chain id="B"/>
+		</PDB>
+		<PDB id="3d0g">
+			<Chain id="A"/>
+			<Chain id="B"/>
+		</PDB>
+		<PDB id="3d0h">
+			<Chain id="A"/>
+			<Chain id="B"/>
+		</PDB>
+		<PDB id="3d0i">
+			<Chain id="A"/>
+			<Chain id="B"/>
+		</PDB>
+		<PDB id="3kbh">
+			<Chain id="A"/>
+			<Chain id="B"/>
+			<Chain id="C"/>
+			<Chain id="D"/>
+		</PDB>
+		<PDB id="3sci">
+			<Chain id="A"/>
+			<Chain id="B"/>
+		</PDB>
+		<PDB id="3scj">
+			<Chain id="A"/>
+			<Chain id="B"/>
+		</PDB>
+		<PDB id="3sck">
+			<Chain id="A"/>
+			<Chain id="B"/>
+		</PDB>
+		<PDB id="3scl">
+			<Chain id="A"/>
+			<Chain id="B"/>
+		</PDB>
+		<TOPDB id="AB02312">
+			<Alignment>
+				<CrossRefSeq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWNYNTNITEENVQNMNNAGDKWSAFLKEQSTLAQMYPLQEIQNLTVKLQLQALQQNGSSVLSEDKSKRLNTILNTMSTIYSTGKVCNPDNPQECLLLEPGLNEIMANSLDYNERLWAWESWRSEVGKQLRPLYEEYVVLKNEMARANHYEDYGDYWRGDYEVNGVDGYDYSRGQLIEDVEHTFEEIKPLYEHLHAYVRAKLMNAYPSYISPIGCLPAHLLGDMWGRFWTNLYSLTVPFGQKPNIDVTDAMVDQAWDAQRIFKEAEKFFVSVGLPNMTQGFWENSMLTDPGNVQKAVCHPTAWDLGKGDFRILMCTKVTMDDFLTAHHEMGHIQYDMAYAAQPFLLRNGANEGFHEAVGEIMSLSAATPKHLKSIGLLSPDFQEDNETEINFLLKQALTIVGTLPFTYMLEKWRWMVFKGEIPKDQWMKKWWEMKREIVGVVEPVPHDETYCDPASLFHVSNDYSFIRYYTRTLYQFQFQEALCQAAKHEGPLHKCDISNSTEAGQKLFNMLRLGKSEPWTLALENVVGAKNMNVRPLLNYFEPLFTWLKDQNKNSFVGWSTDWSPYADQSIKVRISLKSALGDKAYEWNDNEMYLFRSSVAYAMRQYFLKVKNQMILFGEEDVRVANLKPRISFNFFVTAPKNVSDIIPRTEVEKAIRMSRSRINDAFRLNDNSLEFLGIQPTLGPPNQPPVSIWLIVFGVVMGVIVVGIVILIFTGIRDRKKKNKARSGENPYASIDISKGENNPGFQNTDDVQTSF</CrossRefSeq>
+				<OrigSeq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWNYNTNITEENVQNMNNAGDKWSAFLKEQSTLAQMYPLQEIQNLTVKLQLQALQQNGSSVLSEDKSKRLNTILNTMSTIYSTGKVCNPDNPQECLLLEPGLNEIMANSLDYNERLWAWESWRSEVGKQLRPLYEEYVVLKNEMARANHYEDYGDYWRGDYEVNGVDGYDYSRGQLIEDVEHTFEEIKPLYEHLHAYVRAKLMNAYPSYISPIGCLPAHLLGDMWGRFWTNLYSLTVPFGQKPNIDVTDAMVDQAWDAQRIFKEAEKFFVSVGLPNMTQGFWENSMLTDPGNVQKAVCHPTAWDLGKGDFRILMCTKVTMDDFLTAHHEMGHIQYDMAYAAQPFLLRNGANEGFHEAVGEIMSLSAATPKHLKSIGLLSPDFQEDNETEINFLLKQALTIVGTLPFTYMLEKWRWMVFKGEIPKDQWMKKWWEMKREIVGVVEPVPHDETYCDPASLFHVSNDYSFIRYYTRTLYQFQFQEALCQAAKHEGPLHKCDISNSTEAGQKLFNMLRLGKSEPWTLALENVVGAKNMNVRPLLNYFEPLFTWLKDQNKNSFVGWSTDWSPYADQSIKVRISLKSALGDKAYEWNDNEMYLFRSSVAYAMRQYFLKVKNQMILFGEEDVRVANLKPRISFNFFVTAPKNVSDIIPRTEVEKAIRMSRSRINDAFRLNDNSLEFLGIQPTLGPPNQPPVSIWLIVFGVVMGVIVVGIVILIFTGIRDRKKKNKARSGENPYASIDISKGENNPGFQNTDDVQTSF</OrigSeq>
+			</Alignment>
+		</TOPDB>
+		<TOPDOM id="PF01401"/>
+		<TOPDOM id="PRIPEPDIPTASEA"/>
+		<Signal id="TopDB-AB02312">
+			<Results>1-17</Results>
+		</Signal>
+		<Signal id="SignalP">
+			<Results>1-18</Results>
+			<Parameters>0.45</Parameters>
+		</Signal>
+	</CrossRef>
+	<Sequence length="805" checkSum="906dc56d5c9c5513eef859ee82e80267">
+		<Signal from="1" to="17"/>
+		<Seq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWNY
+NTNITEENVQNMNNAGDKWSAFLKEQSTLAQMYPLQEIQNLTVKLQLQAL
+QQNGSSVLSEDKSKRLNTILNTMSTIYSTGKVCNPDNPQECLLLEPGLNE
+IMANSLDYNERLWAWESWRSEVGKQLRPLYEEYVVLKNEMARANHYEDYG
+DYWRGDYEVNGVDGYDYSRGQLIEDVEHTFEEIKPLYEHLHAYVRAKLMN
+AYPSYISPIGCLPAHLLGDMWGRFWTNLYSLTVPFGQKPNIDVTDAMVDQ
+AWDAQRIFKEAEKFFVSVGLPNMTQGFWENSMLTDPGNVQKAVCHPTAWD
+LGKGDFRILMCTKVTMDDFLTAHHEMGHIQYDMAYAAQPFLLRNGANEGF
+HEAVGEIMSLSAATPKHLKSIGLLSPDFQEDNETEINFLLKQALTIVGTL
+PFTYMLEKWRWMVFKGEIPKDQWMKKWWEMKREIVGVVEPVPHDETYCDP
+ASLFHVSNDYSFIRYYTRTLYQFQFQEALCQAAKHEGPLHKCDISNSTEA
+GQKLFNMLRLGKSEPWTLALENVVGAKNMNVRPLLNYFEPLFTWLKDQNK
+NSFVGWSTDWSPYADQSIKVRISLKSALGDKAYEWNDNEMYLFRSSVAYA
+MRQYFLKVKNQMILFGEEDVRVANLKPRISFNFFVTAPKNVSDIIPRTEV
+EKAIRMSRSRINDAFRLNDNSLEFLGIQPTLGPPNQPPVSIWLIVFGVVM
+GVIVVGIVILIFTGIRDRKKKNKARSGENPYASIDISKGENNPGFQNTDD
+VQTSF</Seq>
+	</Sequence>
+	<Topology numTM="1" reliability="99.3713">
+		<Region from="1" to="17" loc="S"/>
+		<Region from="18" to="740" loc="O"/>
+		<Region from="741" to="763" loc="M"/>
+		<Region from="764" to="805" loc="I"/>
+	</Topology>
+	<Predictions>
+		<Prediction name="HMMTOP">
+			<Region from="18" to="738" loc="O"/>
+			<Region from="739" to="765" loc="M"/>
+			<Region from="766" to="805" loc="I"/>
+		</Prediction>
+		<Prediction name="Memsat">
+			<Region from="18" to="740" loc="O"/>
+			<Region from="741" to="762" loc="M"/>
+			<Region from="763" to="805" loc="I"/>
+		</Prediction>
+		<Prediction name="Octopus">
+			<Region from="18" to="741" loc="O"/>
+			<Region from="742" to="762" loc="M"/>
+			<Region from="763" to="805" loc="I"/>
+		</Prediction>
+		<Prediction name="Philius">
+			<Region from="18" to="740" loc="O"/>
+			<Region from="741" to="765" loc="M"/>
+			<Region from="766" to="805" loc="I"/>
+		</Prediction>
+		<Prediction name="Phobius">
+			<Region from="18" to="740" loc="O"/>
+			<Region from="741" to="765" loc="M"/>
+			<Region from="766" to="805" loc="I"/>
+		</Prediction>
+		<Prediction name="Pro">
+			<Region from="18" to="435" loc="I"/>
+			<Region from="436" to="456" loc="M"/>
+			<Region from="457" to="740" loc="O"/>
+			<Region from="741" to="761" loc="M"/>
+			<Region from="762" to="805" loc="I"/>
+		</Prediction>
+		<Prediction name="Prodiv">
+			<Region from="18" to="435" loc="I"/>
+			<Region from="436" to="456" loc="M"/>
+			<Region from="457" to="742" loc="O"/>
+			<Region from="743" to="765" loc="M"/>
+			<Region from="766" to="805" loc="I"/>
+		</Prediction>
+		<Prediction name="Scampi">
+			<Region from="18" to="437" loc="I"/>
+			<Region from="438" to="457" loc="M"/>
+			<Region from="458" to="742" loc="O"/>
+			<Region from="743" to="762" loc="M"/>
+			<Region from="763" to="805" loc="I"/>
+		</Prediction>
+		<Prediction name="ScampiMsa">
+			<Region from="18" to="438" loc="I"/>
+			<Region from="439" to="458" loc="M"/>
+			<Region from="459" to="743" loc="O"/>
+			<Region from="744" to="763" loc="M"/>
+			<Region from="764" to="805" loc="I"/>
+		</Prediction>
+		<Prediction name="TMHMM">
+			<Region from="18" to="740" loc="O"/>
+			<Region from="741" to="763" loc="M"/>
+			<Region from="764" to="805" loc="I"/>
+		</Prediction>
+	</Predictions>
+	<Constraints>
+		<Constraint source="SIGNAL" sourceId="TopDB-AB02312">
+			<ConstraintRegion from="18" to="18" loc="O"/>
+		</Constraint>
+		<Constraint source="TOPDB" sourceId="AB02312">
+			<ConstraintRegion from="18" to="615" loc="O" subId="00009" subSource="1r42A"/>
+			<ConstraintRegion from="18" to="615" loc="O" subId="00010" subSource="1r4lA"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00013" subSource="2ajfA"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00014" subSource="2ajfB"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00015" subSource="3d0gA"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00016" subSource="3d0gB"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00017" subSource="3d0hA"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00018" subSource="3d0hB"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00019" subSource="3d0iA"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00020" subSource="3d0iB"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00021" subSource="3kbhA"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00022" subSource="3kbhB"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00023" subSource="3kbhC"/>
+			<ConstraintRegion from="19" to="615" loc="O" subId="00024" subSource="3kbhD"/>
+			<ConstraintRegion from="19" to="621" loc="O" subId="00025" subSource="3sciA"/>
+			<ConstraintRegion from="19" to="621" loc="O" subId="00026" subSource="3sciB"/>
+			<ConstraintRegion from="19" to="621" loc="O" subId="00027" subSource="3scjA"/>
+			<ConstraintRegion from="19" to="621" loc="O" subId="00028" subSource="3scjB"/>
+			<ConstraintRegion from="19" to="621" loc="O" subId="00029" subSource="3sckA"/>
+			<ConstraintRegion from="19" to="621" loc="O" subId="00030" subSource="3sckB"/>
+			<ConstraintRegion from="19" to="621" loc="O" subId="00031" subSource="3sclA"/>
+			<ConstraintRegion from="19" to="621" loc="O" subId="00032" subSource="3sclB"/>
+			<ConstraintRegion from="53" to="53" loc="O" subId="00001" subSource="14754895"/>
+			<ConstraintRegion from="90" to="90" loc="O" subId="00002" subSource="15084671"/>
+			<ConstraintRegion from="90" to="90" loc="O" subId="00003" subSource="14754895"/>
+			<ConstraintRegion from="103" to="103" loc="O" subId="00004" subSource="14754895"/>
+			<ConstraintRegion from="322" to="322" loc="O" subId="00005" subSource="14754895"/>
+			<ConstraintRegion from="432" to="432" loc="O" subId="00006" subSource="14754895"/>
+			<ConstraintRegion from="546" to="546" loc="O" subId="00007" subSource="19159218"/>
+			<ConstraintRegion from="546" to="546" loc="O" subId="00008" subSource="14754895"/>
+		</Constraint>
+		<Constraint source="TOPDOM" sourceId="PF01401">
+			<ConstraintRegion from="21" to="606" loc="O"/>
+		</Constraint>
+		<Constraint source="TOPDOM" sourceId="PRIPEPDIPTASEA">
+			<ConstraintRegion from="226" to="253" loc="O"/>
+			<ConstraintRegion from="260" to="281" loc="O"/>
+			<ConstraintRegion from="369" to="385" loc="O"/>
+			<ConstraintRegion from="397" to="417" loc="O"/>
+			<ConstraintRegion from="439" to="464" loc="O"/>
+			<ConstraintRegion from="474" to="501" loc="O"/>
+			<ConstraintRegion from="502" to="530" loc="O"/>
+		</Constraint>
+	</Constraints>
+</CCTOPItem>
+
+</CCTOPItems>
